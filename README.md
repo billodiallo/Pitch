@@ -1,6 +1,6 @@
 # Pitch It Up!
 
-## Built By [Tom Chege](https://github.com/emdeechege/)
+## Built By [Mamadou Billo Diallo](https://github.com/billodiallo/)
 
 ## Description
 an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
@@ -35,8 +35,8 @@ As a user I would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/peech/
-        $ cd peech
+        $ git clone https://github.com/billodiallo/Pitch/
+        $ cd Pitch
 
 ## Running the Application
 * Creating the virtual environment
@@ -65,7 +65,7 @@ As a user I would like to:
 
 ## License
 
-Copyright (c) 2018 emdeechege
+Copyright (c) 2018 billdiallo
 
 ------------
 
