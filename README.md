@@ -59,7 +59,7 @@ As a user I would like to:
 
 ## License
 
-Copyright (c) 2018 billdiallo
+Copyright (c) 2020 billdiallo
 
 ------------
 
